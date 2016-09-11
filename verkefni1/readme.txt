@@ -1,1 +1,1 @@
-Þetta verður geggjað gaman NOT
+Þetta verður geggjað gaman NOT.... hvað meinaru! Eg er sjuklega peppud!

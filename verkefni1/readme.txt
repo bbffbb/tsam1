@@ -1,1 +1,1 @@
-readme
+Þetta verður geggjað gaman NOT

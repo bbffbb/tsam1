@@ -54,7 +54,7 @@ int main()
     memset(&server, 0, sizeof(server));
     server.sin_family = AF_INET;
     inet_pton(AF_INET, "127.0.0.1", &server.sin_addr);
-    server.sin_port = htons(32000);
+    server.sin_port = htons(57596);
 
     /* Get a line of input from the user. */
     fprintf(stdout, "Type message: ");
